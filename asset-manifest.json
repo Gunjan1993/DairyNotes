@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DairyNotes/static/css/main.f634842c.css",
+    "main.js": "/DairyNotes/static/js/main.c0dcf04a.js",
+    "index.html": "/DairyNotes/index.html",
+    "main.f634842c.css.map": "/DairyNotes/static/css/main.f634842c.css.map",
+    "main.c0dcf04a.js.map": "/DairyNotes/static/js/main.c0dcf04a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f634842c.css",
+    "static/js/main.c0dcf04a.js"
+  ]
+}
